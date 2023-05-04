@@ -11,6 +11,7 @@ h1{
 }
 section{
     display : flex;
+    margin-bottom: 150px;
 }
  .first-img {
     width : 50%;
@@ -32,6 +33,17 @@ section{
 }
 .top-banner{
     /* background-image: url(photo/banner1.png); */
+    background-repeat: no-repeat;
 }
 
-  
+.a{
+    color: red;
+    font-weight: bold;
+    
+}
+.second{
+    width : 50%;
+    border-radius: 50%;
+    margin-top: 50px;
+    margin-left: 300px; 
+}
